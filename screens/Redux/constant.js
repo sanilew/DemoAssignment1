@@ -1,0 +1,4 @@
+export const CHANGE_INPUT_FIELD =
+    'CHANGE_INPUT_FIELD';
+
+export const POST_OUTPUT = 'POST_OUTPUT';
